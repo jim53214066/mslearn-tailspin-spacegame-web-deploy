@@ -1,7 +1,7 @@
 trigger:
 - '*'
 
-pool: '53214066.az400.Jim-EPCNCTUL0042'
+pool: 'Jim-EPCNCTUL0042'
 
 
 variables:
